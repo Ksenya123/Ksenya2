@@ -1,0 +1,27 @@
+c:\users\qfoil\documents\visual studio 2010\Projects\07_29\07_29\bin\Debug\07_29.exe
+c:\users\qfoil\documents\visual studio 2010\Projects\07_29\07_29\bin\Debug\07_29.pdb
+c:\users\qfoil\documents\visual studio 2010\Projects\07_29\07_29\obj\x86\Debug\_07_29.ArrayForm.resources
+c:\users\qfoil\documents\visual studio 2010\Projects\07_29\07_29\obj\x86\Debug\_07_29.Properties.Resources.resources
+c:\users\qfoil\documents\visual studio 2010\Projects\07_29\07_29\obj\x86\Debug\07_29.csproj.GenerateResource.Cache
+c:\users\qfoil\documents\visual studio 2010\Projects\07_29\07_29\obj\x86\Debug\07_29.exe
+c:\users\qfoil\documents\visual studio 2010\Projects\07_29\07_29\obj\x86\Debug\07_29.pdb
+C:\Users\User\Downloads\Programs\07_29\07_29\obj\x86\Debug\07_29.exe
+C:\Users\User\Downloads\Programs\07_29\07_29\obj\x86\Debug\07_29.pdb
+C:\Users\User\Downloads\Programs\07_29\07_29\bin\Debug\07_29.exe
+C:\Users\User\Downloads\Programs\07_29\07_29\bin\Debug\07_29.pdb
+C:\Users\User\Downloads\Programs\07_29\07_29\obj\x86\Debug\_07_29.ArrayForm.resources
+C:\Users\User\Downloads\Programs\07_29\07_29\obj\x86\Debug\_07_29.Properties.Resources.resources
+C:\Users\User\Downloads\Programs\07_29\07_29\obj\x86\Debug\07_29.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Programs\07_29\07_29\bin\Debug\BusinessLogic.dll
+C:\Users\User\Downloads\Programs\07_29\07_29\bin\Debug\BusinessLogic.pdb
+C:\Users\User\Downloads\Programs\07_29\07_29\obj\x86\Debug\07_29.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\07_29\07_29\obj\x86\Debug\07_29.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\07_29\07_29\obj\x86\Debug\07_29.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\07_29\07_29\bin\Debug\07_29.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\07_29\07_29\bin\Debug\07_29.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\07_29\07_29\bin\Debug\BusinessLogic.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\07_29\07_29\bin\Debug\BusinessLogic.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\07_29\07_29\obj\x86\Debug\07_29.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\07_29\07_29\obj\x86\Debug\_07_29.ArrayForm.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\07_29\07_29\obj\x86\Debug\_07_29.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\07_29\07_29\obj\x86\Debug\07_29.csproj.GenerateResource.Cache

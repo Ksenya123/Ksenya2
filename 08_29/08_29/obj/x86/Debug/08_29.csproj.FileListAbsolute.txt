@@ -1,0 +1,17 @@
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\08_29\08_29\bin\Debug\08_29.exe
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\08_29\08_29\bin\Debug\08_29.pdb
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\08_29\08_29\obj\x86\Debug\_08_29.Form1.resources
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\08_29\08_29\obj\x86\Debug\_08_29.Properties.Resources.resources
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\08_29\08_29\obj\x86\Debug\08_29.csproj.GenerateResource.Cache
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\08_29\08_29\obj\x86\Debug\08_29.exe
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\08_29\08_29\obj\x86\Debug\08_29.pdb
+C:\Users\User\Downloads\Programs\08_29\08_29\obj\x86\Debug\08_29.exe
+C:\Users\User\Downloads\Programs\08_29\08_29\obj\x86\Debug\08_29.pdb
+C:\Users\User\Downloads\Programs\08_29\08_29\bin\Debug\08_29.exe
+C:\Users\User\Downloads\Programs\08_29\08_29\bin\Debug\08_29.pdb
+C:\Users\User\Downloads\Programs\08_29\08_29\bin\Debug\BusinessLogic.dll
+C:\Users\User\Downloads\Programs\08_29\08_29\bin\Debug\BusinessLogic.pdb
+C:\Users\User\Downloads\Programs\08_29\08_29\obj\x86\Debug\08_29.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Programs\08_29\08_29\obj\x86\Debug\_08_29.Form1.resources
+C:\Users\User\Downloads\Programs\08_29\08_29\obj\x86\Debug\_08_29.Properties.Resources.resources
+C:\Users\User\Downloads\Programs\08_29\08_29\obj\x86\Debug\08_29.csproj.GenerateResource.Cache

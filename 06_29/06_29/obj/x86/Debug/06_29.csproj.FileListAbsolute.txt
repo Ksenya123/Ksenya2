@@ -1,0 +1,38 @@
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\06_29\06_29\bin\Debug\06_29.exe
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\06_29\06_29\bin\Debug\06_29.pdb
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\06_29\06_29\obj\x86\Debug\_06_29.StringForm.resources
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\06_29\06_29\obj\x86\Debug\_06_29.Properties.Resources.resources
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\06_29\06_29\obj\x86\Debug\06_29.csproj.GenerateResource.Cache
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\06_29\06_29\obj\x86\Debug\06_29.exe
+C:\Users\qfoilcraft\Documents\Visual Studio 2010\Projects\06_29\06_29\obj\x86\Debug\06_29.pdb
+C:\Users\User\Downloads\Programs\06_29\06_29\obj\x86\Debug\06_29.exe
+C:\Users\User\Downloads\Programs\06_29\06_29\obj\x86\Debug\06_29.pdb
+C:\Users\User\Downloads\Programs\06_29\06_29\bin\Debug\06_29.exe
+C:\Users\User\Downloads\Programs\06_29\06_29\bin\Debug\06_29.pdb
+C:\Users\User\Downloads\Programs\06_29\06_29\obj\x86\Debug\06_29.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Programs\06_29\06_29\obj\x86\Debug\_06_29.StringForm.resources
+C:\Users\User\Downloads\Programs\06_29\06_29\obj\x86\Debug\_06_29.Properties.Resources.resources
+C:\Users\User\Downloads\Programs\06_29\06_29\obj\x86\Debug\06_29.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Programs\06_29\06_29\bin\Debug\BusinessLogic.dll
+C:\Users\User\Downloads\Programs\06_29\06_29\bin\Debug\BusinessLogic.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\06_29\06_29\obj\x86\Debug\06_29.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\06_29\06_29\obj\x86\Debug\06_29.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\06_29\06_29\bin\Debug\06_29.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\06_29\06_29\bin\Debug\06_29.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\06_29\06_29\bin\Debug\BusinessLogic.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\06_29\06_29\bin\Debug\BusinessLogic.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\06_29\06_29\obj\x86\Debug\06_29.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\06_29\06_29\obj\x86\Debug\_06_29.StringForm.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\06_29\06_29\obj\x86\Debug\_06_29.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\KseniaProject\06_29\06_29\obj\x86\Debug\06_29.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\bin\Debug\06_29.exe
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\bin\Debug\06_29.pdb
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\bin\Debug\BusinessLogic.dll
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\bin\Debug\BusinessLogic.pdb
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\obj\x86\Debug\06_29.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\obj\x86\Debug\_06_29.StringForm.resources
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\obj\x86\Debug\_06_29.Properties.Resources.resources
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\obj\x86\Debug\06_29.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\obj\x86\Debug\06_29.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\obj\x86\Debug\06_29.exe
+C:\Users\User\Desktop\KseniaProject\06_29\06_29\obj\x86\Debug\06_29.pdb
